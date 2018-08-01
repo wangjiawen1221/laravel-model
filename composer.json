@@ -1,0 +1,19 @@
+{
+    "name": "wangjiawen1221/laravel-model",
+    "description": "base model",
+    "authors": [
+        {
+            "name": "wangjiawen",
+            "email": "wangjiawen1992@qq.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wangjiawen1221\\LaravelModel\\": "src/"
+        }
+    }
+}
