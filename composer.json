@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Wangjiawen1221\\LaravelModel\\": "src/"
+            "Wangjiawen1221\\LaravelModel\\": "src/Test"
         }
     }
 }
